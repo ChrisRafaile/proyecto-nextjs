@@ -1,0 +1,24 @@
+# Ignorar node_modules
+node_modules/
+
+# Ignorar carpetas de compilación de Next.js
+.next/
+
+# Ignorar archivos de entorno
+.env
+.env.local
+
+# Ignorar logs
+logs/
+*.log
+
+# Ignorar lock de dependencias (opcional, si no es necesario)
+yarn.lock
+
+# Ignorar directorios específicos
+# nextjs-portfolio/
+# portfolio/
+
+
+# Ignorar carpetas específicas generadas
+.DS_Store
